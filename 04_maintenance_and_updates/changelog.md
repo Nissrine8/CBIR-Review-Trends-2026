@@ -29,7 +29,7 @@ Release & Update Log
 
 ---
 
-## 📩 Community Submissions & Corrections
+Community Submissions & Corrections
 
 Researchers wishing to suggest newly published papers for inclusion in the literature database or report benchmark updates are encouraged to:
 1. Submit an issue on GitHub using the `Literature Suggestion` template.
