@@ -1,0 +1,7 @@
+Database,Search_String,Date_Searched,Initial_Results,Filtered_Title_Abstract,Included_Full_Text
+IEEE Xplore,"(""Content-Based Image Retrieval"" OR ""CBIR"") AND (""Deep Learning"" OR ""Vision Transformer"" OR ""Multimodal"")",2025-11-10,482,142,68
+ScienceDirect,"(""CBIR"" OR ""image retrieval"") AND (""deep feature"" OR ""multimodal fusion"" OR ""attention"")",2025-11-12,530,128,52
+SpringerLink,"(""Content Based Image Retrieval"") AND (""Convolutional Neural Network"" OR ""Vision-Language"")",2025-11-14,310,84,36
+ACM Digital Library,"(""CBIR"") AND (""feature extraction"" OR ""cross-modal retrieval"")",2025-11-15,195,46,18
+arXiv / Google Scholar,"(""CBIR"" OR ""Visual RAG"") AND (""CLIP"" OR ""Foundation Models"")",2025-11-20,240,65,31
+TOTAL,-,2025-11-20,1757,465,205
