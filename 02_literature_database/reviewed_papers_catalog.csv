@@ -1,0 +1,12 @@
+Paper_ID,Title,Authors,Year,Venue,Architectural_Paradigm,Primary_Datasets,Quantitative_Benchmark_Included
+P001,ImageNet Classification with Deep Convolutional Neural Networks,Krizhevsky et al.,2012,NeurIPS,CNN-based Baseline,ImageNet,Yes
+P002,Very Deep Convolutional Networks for Large-Scale Image Recognition,Simonyan & Zisserman,2015,ICLR,CNN-based Baseline,ImageNet / Oxford5k,Yes
+P003,Deep Residual Learning for Image Recognition,He et al.,2016,CVPR,CNN-based Baseline,ImageNet / COCO,Yes
+P004,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,Dosovitskiy et al.,2021,ICLR,Vision Transformers (ViT),ImageNet,Yes
+P005,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,Liu et al.,2021,ICCV,Vision Transformers (ViT),ImageNet / COCO,Yes
+P006,Learning Transferable Visual Models From Natural Language Supervision (CLIP),Radford et al.,2021,ICML,Multimodal Foundation (Dual-Encoder),LAION / MS-COCO,Yes
+P007,BLIP: Bootstrapping Language-Image Pre-training,Li et al.,2022,ICML,Multimodal Foundation (Hybrid),MS-COCO / Flickr30k,Yes
+P008,MobileNetV3: Searching for MobileNetV3,Howard et al.,2019,ICCV,Lightweight / Edge Architectures,ImageNet,Yes
+P009,MobileViT: Light-weight General-purpose Vision Transformer,Mehta & Rastegari,2022,ICLR,Lightweight / Edge Architectures,ImageNet / COCO,Yes
+P010,Billion-scale similarity search with GPUs (FAISS),Johnson et al.,2019,IEEE TBIGD,Scalable Vector Indexing (ANN),Billion-Scale Synthetic,No
+... [Truncated for brevity; full database contains N = 128 entries],,,,,,
