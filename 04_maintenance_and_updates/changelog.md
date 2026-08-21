@@ -5,7 +5,7 @@ This document tracks all maintenance updates, quarterly literature additions, an
 
 ---
 
-## 📅 Maintenance Commitments
+Maintenance Commitments
 
 * **Target Window:** Q1 2026 – Q4 2027
 * **Update Frequency:** Quarterly (Every 3 Months)
@@ -17,7 +17,7 @@ This document tracks all maintenance updates, quarterly literature additions, an
 
 ---
 
-## 📜 Release & Update Log
+Release & Update Log
 
 ### [v1.0.0] - First Quarter 2026 (Initial Release)
 * **Date:** February 2026
