@@ -3,13 +3,13 @@ Reference
 
 If you find this review or the curated resources helpful for your research, please cite our work as follows:
 
-    Baarab, N., & Chaouki, B. E. L. K. (2026). Deep Learning-Based Content-Based Image Retrieval: A Review of Trends, Multimodal Fusion, and Open Challenges. The Visual Computer.
+    Baarab, N., & Chaouki, B. E. L. K. (2026). Deep Learning-Based Content-Based Image Retrieval: A Review of Trends, Multimodal Fusion, and Open Challenges. *Discover Artificial Intelligence* (Springer Nature)
 
 About
 
 This repository serves as a technical resource and curated directory for the review paper: "Deep Learning-Based Content-Based Image Retrieval: A Review of Trends, Multimodal Fusion, and Open Challenges".
 
-As a comprehensive survey, this work traces the evolution of Content-Based Image Retrieval (CBIR) from traditional handcrafted descriptors to state-of-the-art deep learning architectures . The repository catalogs the transition toward multimodal fusion and foundation models, providing researchers with a centralized guide to the benchmarks and models discussed in the manuscript.
+As a comprehensive survey, this work traces the evolution of Content-Based Image Retrieval (CBIR) from traditional handcrafted descriptors to state-of-the-art deep learning architectures . The repository catalogs the transition toward multimodal fusion and foundation models, providing researchers with a centralized guide to the benchmarks, search logs, and models discussed in the manuscript.
 Key Research Areas Covered:
 
     Feature Learning: Transition from handcrafted features (LBP, Gabor) to hierarchical CNN representations.
@@ -21,6 +21,23 @@ Key Research Areas Covered:
     Multimodal Retrieval: Integration of Vision-Language models like CLIP, BLIP, and Florence .
 
     Open Challenges: Scalability, data scarcity, interpretability, and the rise of Omni-modal systems.
+
+Repository Structure & Resources
+
+CBIR-Review-Trends-2026/
+│
+├── 01_prisma_methodology/          <-- PRISMA search logs, screening logs & inclusion criteria
+├── 02_literature_database/         <-- Structured catalog of reviewed literature (.csv / .json)
+├── 03_benchmarks_and_metrics/      <-- Dataset taxonomies & baseline evaluation scripts (mAP, Recall@k)
+└── 04_maintenance_and_updates/     <-- Quarterly literature addition logs
+
+Maintenance & Update Schedule
+
+To ensure this resource remains valuable to the computer vision community:
+
+    Update Frequency: Quarterly updates scheduled through 2027.
+
+    Scope of Updates: Incorporating emerging vision-language foundation models, visual RAG benchmarks, lightweight edge architectures, and novel metric learning strategies.
 
 Dependencies and Requirements
 
