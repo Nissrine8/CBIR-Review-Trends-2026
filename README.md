@@ -24,12 +24,12 @@ Key Research Areas Covered:
 
 Repository Structure & Resources
 
-```text
+
 CBIR-Review-Trends-2026/
 ├── 01_prisma_methodology/      <-- PRISMA search logs & screening criteria
 ├── 02_literature_database/     <-- Structured catalog of reviewed literature (.csv / .json)
 ├── 03_benchmarks_and_metrics/  <-- Dataset taxonomies & baseline evaluation scripts
-└── 04_maintenance_and_updates/ <-- Quarterly literature addition logs
+└── 04_maintenance_and_updates/ <-- Quarterly literature addition logs.
 
 Maintenance & Update Schedule
 
