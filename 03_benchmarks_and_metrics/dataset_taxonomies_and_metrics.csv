@@ -1,0 +1,6 @@
+Dataset_Name,Primary_Task,Scale_Volume,Modality,Primary_Evaluation_Metrics,Benchmark_Standard_Usage
+Oxford5k / Paris6k,Landmark / Instance Retrieval,5k - 6k Images,Visual-Only,mAP / Mean Average Precision,Fine-grained geometric descriptor matching
+Inshop Clothes Retrieval,Fashion / E-Commerce Retrieval,8k Items / 54k Images,Visual-Only,Recall@1 / Recall@5 / Recall@10,Attribute-conditioned & cross-view visual matching
+ImageNet (1k/22k),Category-level Retrieval & Zero-Shot,1.2M - 14M Images,Visual / Text-Aligned,Precision@k / Top-1 Accuracy,General visual representation transferability
+MS-COCO,Cross-Modal Image-Text Retrieval,330k Images / 1.5M Captions,Multimodal (Image-Text),Recall@1 / Recall@5 / Recall@10 / R@k,Dual-encoder alignment (CLIP / BLIP baselines)
+LAION-400M / 5B,Foundation Model Pre-training,400M - 5.8B Pairs,Multimodal (Web Scraped),Zero-Shot Recall@k / mAP,Large-scale web contrastive representation learning
