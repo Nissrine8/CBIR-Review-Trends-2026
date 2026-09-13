@@ -27,4 +27,4 @@ This document details the Systematic Literature Review (SLR) protocol applied in
 
 ## 4. Included Studies
 * **Synthesized in Qualitative Review:** **N = 128**
-* **Standard Benchmark Quantitative Comparison:** **N = 68**
+* **Standard Benchmark Quantitative Comparison:** **N = 66**
