@@ -15,6 +15,6 @@ This document details the categorization and mapping of the **N = 128** synthesi
 
 ---
 
-## 2. Quantitative Comparison Subset (N = 68)
+## 2. Quantitative Comparison Subset (N = 66)
 
-Out of the $N = 128$ synthesized papers, **$N = 68$ papers** explicitly evaluate standardized quantitative metrics ($mAP$, $Recall@k$, $nDCG$, $Precision@k$) on benchmark datasets (e.g., Oxford/Paris, ImageNet, MS-COCO, LAION) and are directly incorporated into the comparative analysis tables in Sections 6 and 7 of the manuscript.
+Out of the $N = 128$ synthesized papers, **$N = 66$ papers** explicitly evaluate standardized quantitative metrics ($mAP$, $Recall@k$, $nDCG$, $Precision@k$) on benchmark datasets (e.g., Oxford/Paris, ImageNet, MS-COCO, LAION) and are directly incorporated into the comparative analysis tables in Sections 6 and 7 of the manuscript.
